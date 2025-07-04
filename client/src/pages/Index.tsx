@@ -179,8 +179,7 @@ const Index = () => {
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Find Your Dream Property in{" "}
-            <span className="text-blue-500">Bhopal</span>
+            Find Your Dream Property in <span className="text-blue-500"></span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
             With 25+ years of experience, we help you find the perfect home or
@@ -349,7 +348,7 @@ const Index = () => {
               Latest Properties
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Discover our selection of premium properties in Bhopal
+              Discover our selection of premium properties in
             </p>
           </div>
 
@@ -498,7 +497,7 @@ const Index = () => {
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Get in touch with our expert team and let us help you find the
-            perfect property in Bhopal
+            perfect property in
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="/contact">

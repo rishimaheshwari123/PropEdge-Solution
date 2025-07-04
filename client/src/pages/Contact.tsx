@@ -53,23 +53,20 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Our Location",
-      details: ["Awadhpuri BDA Road", "Bhopal, Madhya Pradesh 462023"],
+      details: ["Addres", ","],
       link: "https://maps.google.com",
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 98765 43210", "+91 87654 32109"],
-      link: "tel:+919876543210",
+      details: ["1234567890", ""],
+      link: "tel:+1234567890",
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: [
-        "info@PropEdge Solutions .co.in",
-        "sales@PropEdge Solutions .co.in",
-      ],
-      link: "mailto:info@PropEdge Solutions .co.in",
+      details: ["info@propEdgesolution.co.in", "sales@propEdgesolutions.co.in"],
+      link: "mailto:info@propedgesolutions .co.in",
     },
     {
       icon: Clock,
@@ -276,9 +273,8 @@ const Contact = () => {
                   ></iframe>
                 </div>
                 <p className="text-gray-600 text-sm">
-                  Located in the heart of Bhopal, our office is easily
-                  accessible and equipped with modern facilities to serve you
-                  better.
+                  Located in the heart of , our office is easily accessible and
+                  equipped with modern facilities to serve you better.
                 </p>
               </CardContent>
             </Card>
@@ -294,7 +290,7 @@ const Contact = () => {
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                     <span className="text-gray-600">
-                      25+ years of trusted experience in Bhopal real estate
+                      25+ years of trusted experience in real estate
                     </span>
                   </li>
                   <li className="flex items-start">

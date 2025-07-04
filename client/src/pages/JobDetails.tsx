@@ -21,7 +21,7 @@ const getSingleJobAPI = async (id) => {
     {
       _id: "1",
       title: "Real Estate Sales Executive",
-      location: "Bhopal, MP",
+      location: ", MP",
       type: "Full-time",
       department: "Sales",
       experience: "2-5 years",
@@ -55,7 +55,7 @@ const getSingleJobAPI = async (id) => {
     {
       _id: "2",
       title: "Property Manager",
-      location: "Bhopal, MP",
+      location: ", MP",
       type: "Full-time",
       department: "Operations",
       experience: "3+ years",
@@ -123,7 +123,7 @@ const getSingleJobAPI = async (id) => {
     {
       _id: "4",
       title: "Real Estate Photographer",
-      location: "Bhopal, MP",
+      location: ", MP",
       type: "Part-time",
       department: "Creative",
       experience: "1-3 years",

@@ -201,7 +201,7 @@ export default function JobCreate() {
                   onChange={(e) =>
                     handleInputChange("location", e.target.value)
                   }
-                  placeholder="e.g., Bhopal, MP"
+                  placeholder="e.g., , MP"
                   required
                 />
               </div>

@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: Award,
       title: "25+ Years Experience",
-      description: "Trusted expertise in Bhopal real estate market",
+      description: "Trusted expertise in  real estate market",
     },
     {
       icon: Users,
@@ -21,7 +21,7 @@ const About = () => {
     {
       icon: TrendingUp,
       title: "Market Leaders",
-      description: "Leading real estate company in Bhopal",
+      description: "Leading real estate company in ",
     },
   ];
 
@@ -35,7 +35,7 @@ const About = () => {
               About PropEdge Solutions
             </h1>
             <p className="text-xl md:text-2xl max-w-3xl mx-auto">
-              Building trust and creating homes for over 25 years in Bhopal
+              Building trust and creating homes for over 25 years in
             </p>
           </div>
         </div>
@@ -52,15 +52,11 @@ const About = () => {
               <p className="text-lg text-gray-600 mb-6">
                 PropEdge Solutions Infra was founded with a simple vision: to
                 make real estate accessible, transparent, and trustworthy for
-                everyone in Bhopal. What started as a small family business has
-                grown into one of the most respected names in Madhya Pradesh's
-                real estate industry.
+                everyone in . What started as a small family business has grown
+                into one of the most respected names in Madhya Pradesh's real
+                estate industry.
               </p>
-              <p className="text-lg text-gray-600 mb-6">
-                Located in Awadhpuri BDA Road, Bhopal, we have been serving the
-                community for over 25 years, helping families find their dream
-                homes and investors discover profitable opportunities.
-              </p>
+
               <p className="text-lg text-gray-600">
                 Our commitment to excellence, ethical practices, and customer
                 satisfaction has earned us the trust of over 5,000 clients and
@@ -165,8 +161,8 @@ const About = () => {
                 Trusted Expertise
               </h3>
               <p className="text-gray-600">
-                25+ years of experience in Bhopal's real estate market with deep
-                local knowledge
+                25+ years of experience in 's real estate market with deep local
+                knowledge
               </p>
             </div>
 

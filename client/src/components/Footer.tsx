@@ -13,13 +13,11 @@ const Footer = () => {
             /> */}
             <p>Logo</p>
             <p className="text-gray-300 mb-4 max-w-md">
-              PropEdge Solutions Infra, a trusted real estate company in Bhopal
-              with 25+ years of experience, has served 5,000+ clients and sold
+              PropEdge Solutions Infra, a trusted real estate company in with
+              25+ years of experience, has served 5,000+ clients and sold
               10,00,000+ sq. ft.
             </p>
-            <p className="text-gray-300">
-              Awadhpuri BDA Road, Bhopal, Madhya Pradesh 462023
-            </p>
+            <p className="text-gray-300"></p>
           </div>
 
           <div>

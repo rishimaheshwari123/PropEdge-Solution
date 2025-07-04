@@ -21,7 +21,7 @@ const PropertyTypesSection = () => {
       id: "apartment",
       title: "Apartment",
       image:
-        "https://is1-2.housingcdn.com/4f2250e8/e40e9a26237f9ba9c5c0fe2dec96a6ba/v5/fs/siddharth_apartment-ratanpur_bhopal-bhopal-siddharth_construction_%26_builders.jpg",
+        "https://is1-2.housingcdn.com/4f2250e8/e40e9a26237f9ba9c5c0fe2dec96a6ba/v5/fs/siddharth_apartment-ratanpur_--siddharth_construction_%26_builders.jpg",
       icon: Building,
       description: "Modern apartments in prime locations",
     },
