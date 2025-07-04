@@ -32,7 +32,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              About PropEdge
+              About PropEdge Solutions
             </h1>
             <p className="text-xl md:text-2xl max-w-3xl mx-auto">
               Building trust and creating homes for over 25 years in Bhopal
@@ -50,11 +50,11 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                PropEdge Infra was founded with a simple vision: to make real
-                estate accessible, transparent, and trustworthy for everyone in
-                Bhopal. What started as a small family business has grown into
-                one of the most respected names in Madhya Pradesh's real estate
-                industry.
+                PropEdge Solutions Infra was founded with a simple vision: to
+                make real estate accessible, transparent, and trustworthy for
+                everyone in Bhopal. What started as a small family business has
+                grown into one of the most respected names in Madhya Pradesh's
+                real estate industry.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 Located in Awadhpuri BDA Road, Bhopal, we have been serving the
@@ -148,7 +148,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose PropEdge ?
+              Why Choose PropEdge Solutions ?
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               We bring together experience, expertise, and dedication to serve

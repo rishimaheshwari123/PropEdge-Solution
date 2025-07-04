@@ -65,8 +65,11 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@PropEdge .co.in", "sales@PropEdge .co.in"],
-      link: "mailto:info@PropEdge .co.in",
+      details: [
+        "info@PropEdge Solutions .co.in",
+        "sales@PropEdge Solutions .co.in",
+      ],
+      link: "mailto:info@PropEdge Solutions .co.in",
     },
     {
       icon: Clock,
@@ -283,7 +286,7 @@ const Contact = () => {
             <Card>
               <CardHeader>
                 <CardTitle className="text-xl font-bold text-gray-900">
-                  Why Choose PropEdge ?
+                  Why Choose PropEdge Solutions ?
                 </CardTitle>
               </CardHeader>
               <CardContent>

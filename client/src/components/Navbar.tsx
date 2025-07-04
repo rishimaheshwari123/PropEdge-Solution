@@ -77,7 +77,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center">
               {/* <img
                 src="/lovable-uploads/logo.png"
-                alt="PropEdge  Real Estate"
+                alt="PropEdge Solutions  Real Estate"
                 className="h-20  w-auto"
               /> */}
 
@@ -221,7 +221,7 @@ const Navbar = () => {
               <div className="flex items-center justify-between p-4 border-b">
                 {/* <img
                   src="/lovable-uploads/logo.png"
-                  alt="PropEdge  Real Estate"
+                  alt="PropEdge Solutions  Real Estate"
                   className="h-20 w-auto"
                 /> */}
                 <p>Logo</p>
